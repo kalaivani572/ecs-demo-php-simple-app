@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Hackathon 2018 Test App - update 34 hello!!!</h1>
+                <h1>Hackathon 2018 Test App - update 1 hello!!!</h1>
                 <h2>Congratulations!!</h2>
                 <p>This application is now running on a container in Amazon ECS.</p>
             </div>
